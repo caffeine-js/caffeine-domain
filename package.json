@@ -52,6 +52,7 @@
     "typescript": "^5"
   },
   "dependencies": {
-    "@caffeine/entity": "link:@caffeine/entity"
+    "@caffeine/entity": "link:@caffeine/entity",
+    "@caffeine/models": "link:@caffeine/models"
   }
 }
